@@ -40,7 +40,7 @@
     "@microsoft/api-extractor-model": "workspace:*",
     "@microsoft/tsdoc": "0.14.2",
     "@microsoft/tsdoc-config": "~0.16.1",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
     "colors": "~1.2.1",
