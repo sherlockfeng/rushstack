@@ -22,7 +22,7 @@
   "dependencies": {
     "@microsoft/api-extractor-model": "workspace:*",
     "@microsoft/tsdoc": "0.14.2",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/ts-command-line": "workspace:*",
     "colors": "~1.2.1",
     "js-yaml": "~3.13.1",
