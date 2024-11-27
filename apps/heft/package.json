@@ -54,7 +54,7 @@
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "0.50.6",
     "@rushstack/heft-node-rig": "1.13.0",
-    "@types/argparse": "1.0.38",
+    "@types/argparse": "2.0.17",
     "@types/eslint": "8.2.0",
     "@types/glob": "7.1.1",
     "@types/heft-jest": "1.0.1",
