@@ -62,6 +62,6 @@
     "@types/semver": "7.3.5",
     "colors": "~1.2.1",
     "tslint": "~5.20.1",
-    "typescript": "~5.0.4"
+    "typescript": "~5.7.2"
   }
 }
