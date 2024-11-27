@@ -39,7 +39,7 @@
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
     "@types/tapable": "1.0.6",
-    "argparse": "~1.0.9",
+    "argparse": "~2.0.1",
     "chokidar": "~3.4.0",
     "fast-glob": "~3.2.4",
     "glob": "~7.0.5",
