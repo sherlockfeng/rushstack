@@ -42,7 +42,7 @@
     "semver": "~7.3.0"
   },
   "devDependencies": {
-    "@rushstack/eslint-config": "workspace:*",
+    "@rushstack/eslint-config": "^4.1.0",
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
