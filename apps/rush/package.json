@@ -44,7 +44,7 @@
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
-    "@rushstack/heft-node-rig": "workspace:*",
+    "@rushstack/heft-node-rig": "^2.6.42",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
     "@rushstack/rush-azure-storage-build-cache-plugin": "workspace:*",
     "@rushstack/rush-http-build-cache-plugin": "workspace:*",
