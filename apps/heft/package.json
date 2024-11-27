@@ -50,7 +50,7 @@
     "true-case-path": "~2.2.1"
   },
   "devDependencies": {
-    "@microsoft/api-extractor": "workspace:*",
+    "@microsoft/api-extractor": "^7.48.0",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "0.50.6",
     "@rushstack/heft-node-rig": "1.13.0",
