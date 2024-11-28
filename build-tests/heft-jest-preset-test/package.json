@@ -12,7 +12,7 @@
   "devDependencies": {
     "@jest/types": "29.5.0",
     "@rushstack/eslint-config": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.8",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@types/heft-jest": "1.0.1",
     "eslint": "~8.7.0",
