@@ -16,7 +16,7 @@
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-serverless-stack-plugin": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.8",
     "@serverless-stack/aws-lambda-ric": "^2.0.12",
     "@serverless-stack/cli": "0.67.0",
     "@serverless-stack/resources": "0.67.0",
