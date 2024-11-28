@@ -11,6 +11,6 @@
   "dependencies": {
     "typescript": "~5.0.4",
     "@microsoft/api-extractor": "workspace:*",
-    "@rushstack/heft-jest-plugin": "workspace:*"
+    "@rushstack/heft-jest-plugin": "^0.13.1"
   }
 }
