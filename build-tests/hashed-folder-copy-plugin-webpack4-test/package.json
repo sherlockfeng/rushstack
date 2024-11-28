@@ -12,7 +12,7 @@
     "@rushstack/hashed-folder-copy-plugin": "workspace:*",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
-    "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
+    "@rushstack/webpack4-module-minifier-plugin": "^0.13.77",
     "@rushstack/set-webpack-public-path-plugin": "workspace:*",
     "@types/webpack-env": "1.18.0",
     "html-webpack-plugin": "~4.5.2",
