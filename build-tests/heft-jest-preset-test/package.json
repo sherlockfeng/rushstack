@@ -10,7 +10,7 @@
     "_phase:test": "heft test --no-build && node ./config/verify-coverage.js"
   },
   "devDependencies": {
-    "@jest/types": "29.5.0",
+    "@jest/types": "29.6.3",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-jest-plugin": "workspace:*",
