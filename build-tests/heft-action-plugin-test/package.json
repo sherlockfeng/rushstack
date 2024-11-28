@@ -9,7 +9,7 @@
     "_phase:build": "heft build --clean"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.8",
     "heft-action-plugin": "workspace:*"
   }
 }
