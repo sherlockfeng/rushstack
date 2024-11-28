@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/semver": "7.3.5",
-    "api-extractor-test-01": "workspace:*",
+    "api-extractor-test-01": "^0.0.1-security",
     "semver": "~7.3.0"
   },
   "devDependencies": {
