@@ -13,8 +13,8 @@
     "_phase:test": "heft test --no-build"
   },
   "dependencies": {
-    "react": "~16.13.1",
-    "react-dom": "~16.13.1",
+    "react": "~18.3.1",
+    "react-dom": "~18.3.1",
     "tslib": "~2.3.1"
   },
   "devDependencies": {
