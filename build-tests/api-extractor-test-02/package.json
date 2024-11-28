@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/semver": "7.3.5",
     "api-extractor-test-01": "workspace:*",
-    "semver": "~7.3.0"
+    "semver": "~7.6.3"
   },
   "devDependencies": {
     "@microsoft/api-extractor": "workspace:*",
