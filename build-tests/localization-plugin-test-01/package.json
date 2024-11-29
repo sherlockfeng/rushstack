@@ -15,7 +15,7 @@
     "@rushstack/set-webpack-public-path-plugin": "workspace:*",
     "@types/webpack-env": "1.18.0",
     "html-webpack-plugin": "~4.5.2",
-    "ts-loader": "6.0.0",
+    "ts-loader": "9.5.1",
     "typescript": "~5.0.4",
     "webpack": "~4.44.2",
     "webpack-bundle-analyzer": "~4.5.0",
