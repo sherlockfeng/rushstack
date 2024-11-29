@@ -30,7 +30,7 @@
     "@rushstack/eslint-patch": "workspace:*",
     "@rushstack/eslint-plugin": "workspace:*",
     "@rushstack/eslint-plugin-packlets": "workspace:*",
-    "@rushstack/eslint-plugin-security": "workspace:*",
+    "@rushstack/eslint-plugin-security": "^0.8.3",
     "@typescript-eslint/eslint-plugin": "~5.59.2",
     "@typescript-eslint/experimental-utils": "~5.59.2",
     "@typescript-eslint/parser": "~5.59.2",
