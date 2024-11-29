@@ -10,7 +10,7 @@
     "_phase:test": "heft test --no-build"
   },
   "devDependencies": {
-    "@rushstack/eslint-config": "workspace:*",
+    "@rushstack/eslint-config": "^4.1.0",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/set-webpack-public-path-plugin": "workspace:*",
