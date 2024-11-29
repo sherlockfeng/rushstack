@@ -16,7 +16,7 @@
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
     "@rushstack/module-minifier": "workspace:*",
-    "@rushstack/webpack5-module-minifier-plugin": "workspace:*",
+    "@rushstack/webpack5-module-minifier-plugin": "^5.5.78",
     "@types/heft-jest": "1.0.1",
     "@types/webpack-env": "1.18.0",
     "eslint": "~8.7.0",
