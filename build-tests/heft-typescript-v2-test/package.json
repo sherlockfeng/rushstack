@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@microsoft/api-extractor": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.8",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@types/jest": "ts2.9",
     "@types/node": "ts2.9",
