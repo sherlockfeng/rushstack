@@ -13,6 +13,6 @@
     "@rushstack/heft": "*",
     "typescript": "~4.7.0",
     "tslint": "~5.20.1",
-    "eslint": "~8.7.0"
+    "eslint": "~9.15.0"
   }
 }
