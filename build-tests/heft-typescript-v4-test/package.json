@@ -14,7 +14,7 @@
     "@microsoft/api-extractor": "workspace:*",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
-    "@rushstack/heft-jest-plugin": "workspace:*",
+    "@rushstack/heft-jest-plugin": "^0.13.1",
     "@types/jest": "ts4.9",
     "@types/node": "ts4.9",
     "eslint": "~8.7.0",
