@@ -44,7 +44,7 @@
     "https-proxy-agent": "~5.0.0",
     "ignore": "~5.1.6",
     "inquirer": "~7.3.3",
-    "js-yaml": "~3.13.1",
+    "js-yaml": "~4.1.0",
     "lodash": "~4.17.15",
     "node-fetch": "2.6.7",
     "npm-check": "~6.0.1",
