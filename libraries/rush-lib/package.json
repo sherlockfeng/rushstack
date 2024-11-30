@@ -65,7 +65,7 @@
     "@rushstack/heft-webpack5-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/webpack-deep-imports-plugin": "workspace:*",
-    "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
+    "@rushstack/webpack-preserve-dynamic-require-plugin": "^0.11.75",
     "@types/cli-table": "0.3.0",
     "@types/glob": "7.1.1",
     "@types/heft-jest": "1.0.1",
