@@ -24,7 +24,7 @@
     "@jest/core": "~29.5.0",
     "@jest/reporters": "~29.5.0",
     "@jest/transform": "~29.5.0",
-    "@rushstack/heft-config-file": "workspace:*",
+    "@rushstack/heft-config-file": "^0.15.9",
     "@rushstack/node-core-library": "workspace:*",
     "jest-config": "~29.5.0",
     "jest-resolve": "~29.5.0",
