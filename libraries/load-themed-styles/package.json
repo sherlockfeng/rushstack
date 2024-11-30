@@ -18,7 +18,7 @@
   "keywords": [],
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.8",
     "@rushstack/heft-web-rig": "workspace:*",
     "@types/heft-jest": "1.0.1",
     "@types/webpack-env": "1.18.0"
