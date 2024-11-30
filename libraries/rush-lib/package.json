@@ -78,7 +78,7 @@
     "@types/semver": "7.3.5",
     "@types/ssri": "~7.1.0",
     "@types/strict-uri-encode": "2.0.0",
-    "@types/tar": "6.1.1",
+    "@types/tar": "6.1.13",
     "@types/webpack-env": "1.18.0",
     "webpack": "~5.80.0"
   },
