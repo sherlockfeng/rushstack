@@ -21,7 +21,7 @@
     "_phase:test": "heft test --no-build"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/rig-package": "workspace:*",
     "jsonpath-plus": "~4.0.0"
   },
