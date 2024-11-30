@@ -4,7 +4,7 @@
   "description": "Test package c",
   "dependencies": {
     "assert": "workspace:*",
-    "rimraf": "workspace:*"
+    "rimraf": "^6.0.1"
   },
   "devDependencies": {
     "assert": "workspace:*"
