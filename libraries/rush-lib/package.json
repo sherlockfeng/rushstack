@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "@pnpm/link-bins": "~5.3.7",
-    "@rushstack/package-extractor": "workspace:*",
+    "@rushstack/package-extractor": "^0.10.2",
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/package-deps-hash": "workspace:*",
