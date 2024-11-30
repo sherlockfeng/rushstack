@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "cyclic-dep-2",
   "dependencies": {
-    "cyclic-dep-1": "workspace:>=1.0.0 <2.0.0"
+    "cyclic-dep-1": "^0.0.1-security"
   }
 }
