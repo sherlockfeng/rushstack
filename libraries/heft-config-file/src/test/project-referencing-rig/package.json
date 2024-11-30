@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "test-rig": "1.0.0"
+    "test-rig": "1.0.1"
   },
   "author": "",
   "license": "ISC"
