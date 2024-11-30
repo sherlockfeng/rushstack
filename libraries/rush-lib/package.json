@@ -79,7 +79,7 @@
     "@types/ssri": "~7.1.0",
     "@types/strict-uri-encode": "2.0.0",
     "@types/tar": "6.1.1",
-    "@types/webpack-env": "1.18.0",
+    "@types/webpack-env": "1.18.5",
     "webpack": "~5.80.0"
   },
   "publishOnlyDependencies": {
