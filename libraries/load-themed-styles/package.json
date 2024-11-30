@@ -17,7 +17,7 @@
   "typings": "lib/index.d.ts",
   "keywords": [],
   "devDependencies": {
-    "@rushstack/eslint-config": "workspace:*",
+    "@rushstack/eslint-config": "^4.1.0",
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-web-rig": "workspace:*",
     "@types/heft-jest": "1.0.1",
