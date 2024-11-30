@@ -24,7 +24,7 @@
   "dependencies": {
     "@pnpm/link-bins": "~5.3.7",
     "@rushstack/package-extractor": "workspace:*",
-    "@rushstack/heft-config-file": "workspace:*",
+    "@rushstack/heft-config-file": "^0.15.9",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/package-deps-hash": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
