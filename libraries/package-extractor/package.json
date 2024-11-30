@@ -28,7 +28,7 @@
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.8",
     "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
     "@types/glob": "7.1.1",
     "@types/heft-jest": "1.0.1",
