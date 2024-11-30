@@ -25,7 +25,7 @@
     "@pnpm/link-bins": "~5.3.7",
     "@rushstack/package-extractor": "workspace:*",
     "@rushstack/heft-config-file": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/package-deps-hash": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/stream-collator": "workspace:*",
