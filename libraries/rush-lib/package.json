@@ -55,7 +55,7 @@
     "ssri": "~8.0.0",
     "strict-uri-encode": "~2.0.0",
     "tapable": "2.2.1",
-    "tar": "~6.1.11",
+    "tar": "~7.4.3",
     "true-case-path": "~2.2.1"
   },
   "devDependencies": {
