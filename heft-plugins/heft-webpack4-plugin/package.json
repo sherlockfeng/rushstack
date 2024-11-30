@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "workspace:*",
-    "webpack-dev-server": "~4.9.3"
+    "webpack-dev-server": "~5.1.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
