@@ -28,7 +28,7 @@
     "webpack": "~4.44.2"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "webpack-dev-server": "~4.9.3"
   },
   "devDependencies": {
