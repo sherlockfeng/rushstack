@@ -62,7 +62,7 @@
     "@pnpm/logger": "4.0.0",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
-    "@rushstack/heft-webpack5-plugin": "workspace:*",
+    "@rushstack/heft-webpack5-plugin": "^0.11.6",
     "@rushstack/heft": "workspace:*",
     "@rushstack/webpack-deep-imports-plugin": "workspace:*",
     "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
