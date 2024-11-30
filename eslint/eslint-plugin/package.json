@@ -26,7 +26,7 @@
     "_phase:test": "heft test --no-build"
   },
   "dependencies": {
-    "@rushstack/tree-pattern": "workspace:*",
+    "@rushstack/tree-pattern": "^0.3.4",
     "@typescript-eslint/experimental-utils": "~5.59.2"
   },
   "peerDependencies": {
