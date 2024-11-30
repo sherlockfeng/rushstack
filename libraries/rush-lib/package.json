@@ -51,7 +51,7 @@
     "npm-package-arg": "~6.1.0",
     "read-package-tree": "~5.1.5",
     "rxjs": "~6.6.7",
-    "semver": "~7.3.0",
+    "semver": "~7.6.3",
     "ssri": "~8.0.0",
     "strict-uri-encode": "~2.0.0",
     "tapable": "2.2.1",
