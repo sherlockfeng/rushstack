@@ -16,7 +16,7 @@
     "_phase:test": "heft test --no-build"
   },
   "devDependencies": {
-    "@rushstack/eslint-config": "workspace:*",
+    "@rushstack/eslint-config": "^4.1.0",
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
