@@ -27,7 +27,7 @@
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
-    "@rushstack/heft-webpack5-plugin": "workspace:*",
+    "@rushstack/heft-webpack5-plugin": "^0.11.6",
     "@rushstack/heft": "workspace:*",
     "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
     "@types/glob": "7.1.1",
