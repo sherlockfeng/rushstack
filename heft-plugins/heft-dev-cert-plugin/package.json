@@ -21,7 +21,7 @@
     "@rushstack/heft": "^0.50.7"
   },
   "dependencies": {
-    "@rushstack/debug-certificate-manager": "workspace:*",
+    "@rushstack/debug-certificate-manager": "^1.4.9",
     "@rushstack/node-core-library": "workspace:*"
   },
   "devDependencies": {
