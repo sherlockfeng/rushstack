@@ -59,7 +59,7 @@
     "true-case-path": "~2.2.1"
   },
   "devDependencies": {
-    "@pnpm/logger": "4.0.0",
+    "@pnpm/logger": "1000.0.0",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
