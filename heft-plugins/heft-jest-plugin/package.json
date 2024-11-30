@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@jest/types": "29.5.0",
-    "@microsoft/api-extractor": "workspace:*",
+    "@microsoft/api-extractor": "^7.48.0",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@types/heft-jest": "1.0.1",
