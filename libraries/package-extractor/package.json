@@ -20,7 +20,7 @@
     "@pnpm/link-bins": "~5.3.7",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
-    "ignore": "~5.1.6",
+    "ignore": "~6.0.2",
     "jszip": "~3.8.0",
     "npm-packlist": "~2.1.2"
   },
