@@ -22,7 +22,7 @@
     "@rushstack/terminal": "workspace:*",
     "ignore": "~5.1.6",
     "jszip": "~3.8.0",
-    "npm-packlist": "~2.1.2"
+    "npm-packlist": "~10.0.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
