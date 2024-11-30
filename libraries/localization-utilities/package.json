@@ -18,7 +18,7 @@
   "dependencies": {
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/typings-generator": "workspace:*",
-    "pseudolocale": "~1.1.0",
+    "pseudolocale": "~2.1.0",
     "xmldoc": "~1.1.2"
   },
   "devDependencies": {
