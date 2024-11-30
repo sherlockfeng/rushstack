@@ -19,7 +19,7 @@
   "dependencies": {
     "@microsoft/tsdoc": "0.14.2",
     "@microsoft/tsdoc-config": "~0.16.1",
-    "@rushstack/node-core-library": "workspace:*"
+    "@rushstack/node-core-library": "^5.10.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
