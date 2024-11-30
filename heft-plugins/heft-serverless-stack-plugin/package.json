@@ -20,7 +20,7 @@
     "@rushstack/heft": "^0.50.7"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*"
+    "@rushstack/node-core-library": "^5.10.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
