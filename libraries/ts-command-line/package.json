@@ -22,7 +22,7 @@
     "string-argv": "~0.3.1"
   },
   "devDependencies": {
-    "@rushstack/eslint-config": "workspace:*",
+    "@rushstack/eslint-config": "^4.1.0",
     "@rushstack/heft": "0.50.6",
     "@rushstack/heft-node-rig": "1.13.0",
     "@types/heft-jest": "1.0.1",
