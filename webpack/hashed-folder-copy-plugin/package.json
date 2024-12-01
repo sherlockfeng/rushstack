@@ -24,7 +24,7 @@
     }
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/webpack-plugin-utilities": "workspace:*",
     "glob": "~7.0.5"
   },
