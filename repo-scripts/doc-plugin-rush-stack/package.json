@@ -15,7 +15,7 @@
     "@microsoft/api-extractor-model": "workspace:*",
     "@microsoft/tsdoc": "0.14.2",
     "@rushstack/node-core-library": "workspace:*",
-    "js-yaml": "~3.13.1"
+    "js-yaml": "~4.1.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
