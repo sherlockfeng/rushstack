@@ -14,7 +14,7 @@
     "@microsoft/api-documenter": "workspace:*",
     "@microsoft/api-extractor-model": "workspace:*",
     "@microsoft/tsdoc": "0.14.2",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "js-yaml": "~3.13.1"
   },
   "devDependencies": {
