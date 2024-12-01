@@ -28,7 +28,7 @@
     "loader-utils": "1.4.2"
   },
   "devDependencies": {
-    "@microsoft/load-themed-styles": "workspace:*",
+    "@microsoft/load-themed-styles": "^2.0.151",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
     "@rushstack/heft": "workspace:*",
