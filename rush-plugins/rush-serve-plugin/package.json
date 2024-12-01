@@ -16,7 +16,7 @@
     "_phase:test": "heft test --no-build"
   },
   "dependencies": {
-    "@rushstack/debug-certificate-manager": "workspace:*",
+    "@rushstack/debug-certificate-manager": "^1.4.9",
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
