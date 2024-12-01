@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@microsoft/load-themed-styles": "workspace:*",
-    "@rushstack/eslint-config": "workspace:*",
+    "@rushstack/eslint-config": "^4.1.0",
     "@rushstack/heft-node-rig": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@types/heft-jest": "1.0.1",
