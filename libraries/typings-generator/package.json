@@ -20,7 +20,7 @@
     "_phase:build": "heft build --clean"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "chokidar": "~3.4.0",
     "glob": "~7.0.5"
   },
