@@ -11,7 +11,7 @@
     "_phase:build": "heft build --clean"
   },
   "dependencies": {
-    "@microsoft/api-documenter": "workspace:*",
+    "@microsoft/api-documenter": "^7.26.0",
     "@microsoft/api-extractor-model": "workspace:*",
     "@microsoft/tsdoc": "0.14.2",
     "@rushstack/node-core-library": "workspace:*",
