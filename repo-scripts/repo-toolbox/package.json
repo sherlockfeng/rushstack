@@ -13,7 +13,7 @@
     "@microsoft/rush-lib": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
-    "diff": "~5.0.0"
+    "diff": "~7.0.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
