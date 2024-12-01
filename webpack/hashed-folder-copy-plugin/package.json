@@ -29,7 +29,7 @@
     "glob": "~7.0.5"
   },
   "devDependencies": {
-    "@rushstack/eslint-config": "workspace:*",
+    "@rushstack/eslint-config": "^4.1.0",
     "@rushstack/heft-node-rig": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@types/enhanced-resolve": "3.0.7",
