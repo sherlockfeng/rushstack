@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@microsoft/rush-lib": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/ts-command-line": "workspace:*",
     "diff": "~5.0.0"
   },
