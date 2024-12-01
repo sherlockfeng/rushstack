@@ -22,7 +22,7 @@
     "@azure/storage-blob": "~12.11.0",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/rush-sdk": "workspace:*",
-    "@rushstack/terminal": "workspace:*"
+    "@rushstack/terminal": "^0.14.3"
   },
   "devDependencies": {
     "@microsoft/rush-lib": "workspace:*",
