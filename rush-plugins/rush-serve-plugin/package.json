@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@rushstack/debug-certificate-manager": "workspace:*",
-    "@rushstack/heft-config-file": "workspace:*",
+    "@rushstack/heft-config-file": "^0.15.9",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/rush-sdk": "workspace:*",
