@@ -9,7 +9,7 @@
     "_phase:build": ""
   },
   "devDependencies": {
-    "@microsoft/api-documenter": "workspace:*",
+    "@microsoft/api-documenter": "^7.26.0",
     "@rushstack/eslint-config": "workspace:*",
     "doc-plugin-rush-stack": "workspace:*"
   }
