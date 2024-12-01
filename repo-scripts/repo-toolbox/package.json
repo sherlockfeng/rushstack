@@ -12,7 +12,7 @@
   "dependencies": {
     "@microsoft/rush-lib": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
-    "@rushstack/ts-command-line": "workspace:*",
+    "@rushstack/ts-command-line": "^4.23.1",
     "diff": "~5.0.0"
   },
   "devDependencies": {
