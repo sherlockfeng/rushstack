@@ -21,7 +21,7 @@
     "@rushstack/heft-sass-plugin": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
     "autoprefixer": "~10.4.2",
-    "css-loader": "~6.6.0",
+    "css-loader": "~7.1.2",
     "css-minimizer-webpack-plugin": "~3.4.1",
     "eslint": "~8.7.0",
     "html-webpack-plugin": "~5.5.0",
