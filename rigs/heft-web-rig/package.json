@@ -19,7 +19,7 @@
     "@microsoft/api-extractor": "workspace:*",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-sass-plugin": "workspace:*",
-    "@rushstack/heft-webpack5-plugin": "workspace:*",
+    "@rushstack/heft-webpack5-plugin": "^0.11.6",
     "autoprefixer": "~10.4.2",
     "css-loader": "~6.6.0",
     "css-minimizer-webpack-plugin": "~3.4.1",
