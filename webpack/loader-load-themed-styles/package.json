@@ -25,7 +25,7 @@
     "@microsoft/load-themed-styles": "^2.0.43"
   },
   "dependencies": {
-    "loader-utils": "1.4.2"
+    "loader-utils": "3.3.1"
   },
   "devDependencies": {
     "@microsoft/load-themed-styles": "workspace:*",
