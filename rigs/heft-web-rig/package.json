@@ -16,7 +16,7 @@
     "@rushstack/heft": "^0.50.7"
   },
   "dependencies": {
-    "@microsoft/api-extractor": "workspace:*",
+    "@microsoft/api-extractor": "^7.48.0",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-sass-plugin": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
