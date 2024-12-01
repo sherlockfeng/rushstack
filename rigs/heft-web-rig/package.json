@@ -41,6 +41,6 @@
     "webpack": "~5.80.0"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*"
+    "@rushstack/heft": "^0.68.8"
   }
 }
