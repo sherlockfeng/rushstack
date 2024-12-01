@@ -15,7 +15,7 @@
     "_phase:test": "heft test --no-build"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/rush-sdk": "workspace:*"
   },
   "devDependencies": {
