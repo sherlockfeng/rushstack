@@ -23,6 +23,6 @@
     "typescript": "~5.0.4"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*"
+    "@rushstack/heft": "^0.68.8"
   }
 }
