@@ -19,7 +19,7 @@
     "_phase:test": "heft test --no-build"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.0",
     "@rushstack/rush-sdk": "workspace:*",
     "https-proxy-agent": "~5.0.0",
     "node-fetch": "2.6.7"
