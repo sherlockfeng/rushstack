@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@rushstack/localization-utilities": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*"
+    "@rushstack/node-core-library": "^5.10.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
