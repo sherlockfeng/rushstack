@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "workspace:*",
-    "@rushstack/webpack-plugin-utilities": "workspace:*"
+    "@rushstack/webpack-plugin-utilities": "^0.4.59"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
