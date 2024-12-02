@@ -35,7 +35,7 @@
     "@rushstack/localization-utilities": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@types/tapable": "1.0.6",
-    "loader-utils": "1.4.2",
+    "loader-utils": "3.3.1",
     "minimatch": "~3.0.3"
   },
   "devDependencies": {
