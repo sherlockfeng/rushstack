@@ -15,7 +15,7 @@
     "_phase:build": "heft build --clean"
   },
   "dependencies": {
-    "webpack-merge": "~5.8.0",
+    "webpack-merge": "~6.0.1",
     "memfs": "3.4.3"
   },
   "peerDependencies": {
