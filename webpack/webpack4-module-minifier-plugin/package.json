@@ -51,7 +51,7 @@
     "@types/webpack": "4.41.32",
     "@types/webpack-sources": "1.4.2",
     "webpack": "~4.44.2",
-    "webpack-sources": "~1.4.3"
+    "webpack-sources": "~3.2.3"
   },
   "sideEffects": [
     "./lib/OverrideWebpackIdentifierAllocation"
