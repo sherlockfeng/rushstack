@@ -20,7 +20,7 @@
     "@types/node": "*"
   },
   "dependencies": {
-    "@rushstack/localization-utilities": "workspace:*",
+    "@rushstack/localization-utilities": "^0.12.12",
     "@rushstack/node-core-library": "workspace:*"
   },
   "devDependencies": {
