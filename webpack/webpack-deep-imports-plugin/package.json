@@ -31,6 +31,6 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*"
+    "@rushstack/node-core-library": "^5.10.0"
   }
 }
