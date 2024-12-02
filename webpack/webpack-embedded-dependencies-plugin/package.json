@@ -28,7 +28,7 @@
     }
   },
   "devDependencies": {
-    "@rushstack/webpack-plugin-utilities": "workspace:*",
+    "@rushstack/webpack-plugin-utilities": "^0.4.59",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
