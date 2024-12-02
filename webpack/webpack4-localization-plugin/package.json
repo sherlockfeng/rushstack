@@ -32,7 +32,7 @@
     }
   },
   "dependencies": {
-    "@rushstack/localization-utilities": "workspace:*",
+    "@rushstack/localization-utilities": "^0.12.12",
     "@rushstack/node-core-library": "workspace:*",
     "@types/tapable": "1.0.6",
     "loader-utils": "1.4.2",
