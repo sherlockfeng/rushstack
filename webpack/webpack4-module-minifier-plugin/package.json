@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@rushstack/module-minifier": "workspace:*",
-    "@rushstack/worker-pool": "workspace:*",
+    "@rushstack/worker-pool": "^0.4.76",
     "@types/tapable": "1.0.6",
     "tapable": "1.1.3"
   },
