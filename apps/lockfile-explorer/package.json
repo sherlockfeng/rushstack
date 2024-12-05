@@ -40,7 +40,7 @@
     "@microsoft/rush-lib": "workspace:*",
     "@rushstack/eslint-config": "workspace:*",
     "@rushstack/heft-node-rig": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.9",
     "@rushstack/lockfile-explorer-web": "workspace:*",
     "@types/cors": "~2.8.12",
     "@types/express": "4.17.13",
