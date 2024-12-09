@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@rushstack/hashed-folder-copy-plugin": "workspace:*",
-    "@rushstack/heft-webpack4-plugin": "workspace:*",
+    "@rushstack/heft-webpack4-plugin": "^0.10.77",
     "@rushstack/heft": "workspace:*",
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
     "@rushstack/set-webpack-public-path-plugin": "workspace:*",
