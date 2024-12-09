@@ -16,6 +16,6 @@
     "html-webpack-plugin": "~4.5.2",
     "typescript": "~5.0.4",
     "webpack-bundle-analyzer": "~4.5.0",
-    "webpack": "~5.80.0"
+    "webpack": "~5.97.1"
   }
 }
