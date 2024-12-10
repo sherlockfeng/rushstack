@@ -10,7 +10,7 @@
     "_phase:test": "heft test --custom-parameter --custom-string-parameter test --custom-number-parameter 5 --custom-string-list-parameter eevee -x togepi -x mareep --custom-choice-parameter red --custom-choice-list-parameter totodile -y gudetama -y wobbuffet"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.9",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@types/heft-jest": "1.0.1",
