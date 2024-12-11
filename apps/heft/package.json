@@ -34,7 +34,7 @@
     "_phase:test": "heft test --no-build"
   },
   "dependencies": {
-    "@rushstack/heft-config-file": "workspace:*",
+    "@rushstack/heft-config-file": "^0.16.1",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
