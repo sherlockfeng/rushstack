@@ -39,7 +39,7 @@
   "devDependencies": {
     "@microsoft/rush-lib": "workspace:*",
     "@rushstack/eslint-config": "workspace:*",
-    "@rushstack/heft-node-rig": "workspace:*",
+    "@rushstack/heft-node-rig": "^2.6.45",
     "@rushstack/heft": "workspace:*",
     "@rushstack/lockfile-explorer-web": "workspace:*",
     "@types/cors": "~2.8.12",
