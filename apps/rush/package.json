@@ -36,7 +36,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@microsoft/rush-lib": "workspace:*",
+    "@microsoft/rush-lib": "^5.146.0",
     "@rushstack/node-core-library": "workspace:*",
     "colors": "~1.2.1",
     "semver": "~7.3.0"
