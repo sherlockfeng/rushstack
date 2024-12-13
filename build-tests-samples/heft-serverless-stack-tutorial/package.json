@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@rushstack/eslint-config": "workspace:*",
-    "@rushstack/heft-jest-plugin": "workspace:*",
+    "@rushstack/heft-jest-plugin": "^0.14.0",
     "@rushstack/heft-serverless-stack-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@serverless-stack/aws-lambda-ric": "^2.0.12",
