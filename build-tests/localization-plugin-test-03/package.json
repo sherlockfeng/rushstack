@@ -9,7 +9,7 @@
     "_phase:build": "node build.js"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.1",
     "@rushstack/set-webpack-public-path-plugin": "^4.1.16",
     "@rushstack/webpack4-localization-plugin": "workspace:*",
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
