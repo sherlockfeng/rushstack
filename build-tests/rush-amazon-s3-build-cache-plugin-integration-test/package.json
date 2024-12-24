@@ -14,7 +14,7 @@
     "@microsoft/rush-lib": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.1",
     "@rushstack/terminal": "workspace:*",
     "@types/http-proxy": "~1.17.8",
     "@types/node": "18.17.15",
