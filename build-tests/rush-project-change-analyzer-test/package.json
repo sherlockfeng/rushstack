@@ -14,7 +14,7 @@
     "@rushstack/terminal": "workspace:*"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.11",
     "@types/node": "18.17.15",
     "local-node-rig": "workspace:*"
   }
