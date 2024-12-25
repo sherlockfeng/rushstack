@@ -9,7 +9,7 @@
     "_phase:build": "node build.js"
   },
   "devDependencies": {
-    "@rushstack/ts-command-line": "workspace:*",
+    "@rushstack/ts-command-line": "^4.23.2",
     "@types/node": "18.17.15",
     "fs-extra": "~7.0.1",
     "typescript": "~5.4.2"
