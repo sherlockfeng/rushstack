@@ -22,7 +22,7 @@
     "@rushstack/debug-certificate-manager": "workspace:*"
   },
   "devDependencies": {
-    "@microsoft/api-extractor": "workspace:*",
+    "@microsoft/api-extractor": "^7.48.1",
     "local-node-rig": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "eslint": "~8.57.0"
