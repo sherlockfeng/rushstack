@@ -19,7 +19,7 @@
     "@rushstack/heft": "^0.68.11"
   },
   "dependencies": {
-    "@rushstack/debug-certificate-manager": "workspace:*"
+    "@rushstack/debug-certificate-manager": "^1.4.12"
   },
   "devDependencies": {
     "@microsoft/api-extractor": "workspace:*",
