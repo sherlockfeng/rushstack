@@ -21,7 +21,7 @@
   "dependencies": {
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
-    "@rushstack/typings-generator": "workspace:*",
+    "@rushstack/typings-generator": "^0.14.15",
     "sass-embedded": "~1.77.8",
     "postcss": "~8.4.6",
     "postcss-modules": "~6.0.0"
