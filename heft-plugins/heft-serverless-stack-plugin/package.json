@@ -18,7 +18,7 @@
     "@rushstack/heft": "^0.68.11"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*"
+    "@rushstack/node-core-library": "^5.10.1"
   },
   "devDependencies": {
     "@rushstack/heft": "workspace:*",
