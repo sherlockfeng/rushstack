@@ -21,7 +21,7 @@
     "sudo": "~1.0.3"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.11",
     "@types/node-forge": "1.0.4",
     "local-node-rig": "workspace:*"
   }
