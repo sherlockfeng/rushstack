@@ -17,7 +17,7 @@
   "typings": "lib/index.d.ts",
   "keywords": [],
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.11",
     "local-web-rig": "workspace:*"
   }
 }
