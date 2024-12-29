@@ -30,7 +30,7 @@
   "devDependencies": {
     "local-node-rig": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.11",
     "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
     "@types/glob": "7.1.1",
     "@types/minimatch": "3.0.5",
