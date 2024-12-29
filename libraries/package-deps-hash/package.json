@@ -20,6 +20,6 @@
     "local-node-rig": "workspace:*"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*"
+    "@rushstack/node-core-library": "^5.10.1"
   }
 }
