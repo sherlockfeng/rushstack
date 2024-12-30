@@ -21,7 +21,7 @@
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
-    "ignore": "~5.1.6",
+    "ignore": "~7.0.0",
     "jszip": "~3.8.0",
     "minimatch": "~3.0.3",
     "npm-packlist": "~2.1.2",
