@@ -32,7 +32,7 @@
     "@pnpm/dependency-path-lockfile-pre-v9": "npm:@pnpm/dependency-path@~2.1.2",
     "@pnpm/dependency-path": "~5.1.7",
     "@pnpm/link-bins": "~5.3.7",
-    "@rushstack/heft-config-file": "workspace:*",
+    "@rushstack/heft-config-file": "^0.16.2",
     "@rushstack/lookup-by-path": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/package-deps-hash": "workspace:*",
