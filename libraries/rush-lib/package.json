@@ -71,7 +71,7 @@
     "@pnpm/logger": "4.0.0",
     "local-node-rig": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.11",
     "@rushstack/operation-graph": "workspace:*",
     "@rushstack/webpack-deep-imports-plugin": "workspace:*",
     "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
