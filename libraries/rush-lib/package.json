@@ -36,7 +36,7 @@
     "@rushstack/lookup-by-path": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/package-deps-hash": "workspace:*",
-    "@rushstack/package-extractor": "workspace:*",
+    "@rushstack/package-extractor": "^0.10.5",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/stream-collator": "workspace:*",
     "@rushstack/terminal": "workspace:*",
