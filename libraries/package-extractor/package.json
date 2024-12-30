@@ -31,7 +31,7 @@
     "local-node-rig": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
-    "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
+    "@rushstack/webpack-preserve-dynamic-require-plugin": "^0.11.78",
     "@types/glob": "7.1.1",
     "@types/minimatch": "3.0.5",
     "@types/npm-packlist": "~1.1.1",
