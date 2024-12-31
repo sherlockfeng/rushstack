@@ -40,7 +40,7 @@
   "dependencies": {
     "@pnpm/lockfile.types": "~1.0.3",
     "@rushstack/lookup-by-path": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.10.1",
     "@rushstack/package-deps-hash": "workspace:*",
     "@rushstack/terminal": "workspace:*",
     "tapable": "2.2.1"
