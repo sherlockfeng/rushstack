@@ -51,7 +51,7 @@
     "local-node-rig": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
     "@rushstack/stream-collator": "workspace:*",
-    "@rushstack/ts-command-line": "workspace:*",
+    "@rushstack/ts-command-line": "^4.23.2",
     "@rushstack/webpack-preserve-dynamic-require-plugin": "workspace:*",
     "@types/semver": "7.5.0",
     "@types/webpack-env": "1.18.0",
