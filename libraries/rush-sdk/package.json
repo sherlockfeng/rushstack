@@ -46,7 +46,7 @@
     "tapable": "2.2.1"
   },
   "devDependencies": {
-    "@microsoft/rush-lib": "workspace:*",
+    "@microsoft/rush-lib": "^5.147.1",
     "@rushstack/heft": "workspace:*",
     "local-node-rig": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
