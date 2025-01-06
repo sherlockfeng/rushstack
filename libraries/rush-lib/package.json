@@ -63,7 +63,7 @@
     "tapable": "2.2.1",
     "tar": "~6.2.1",
     "true-case-path": "~2.2.1",
-    "uuid": "~8.3.2",
+    "uuid": "~11.0.4",
     "pnpm-sync-lib": "0.2.9"
   },
   "devDependencies": {
