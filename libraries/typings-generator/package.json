@@ -27,7 +27,7 @@
     "fast-glob": "~3.3.1"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.11",
     "local-node-rig": "workspace:*",
     "@types/glob": "7.1.1"
   },
