@@ -8,7 +8,7 @@
     "_phase:build": "heft run --only build -- --clean"
   },
   "dependencies": {
-    "@microsoft/rush-lib": "workspace:*"
+    "@microsoft/rush-lib": "^5.147.2"
   },
   "devDependencies": {
     "local-node-rig": "workspace:*",
