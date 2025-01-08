@@ -27,7 +27,7 @@
     "typescript": ">=4.7.0"
   },
   "dependencies": {
-    "@rushstack/eslint-patch": "workspace:*",
+    "@rushstack/eslint-patch": "^1.10.5",
     "@rushstack/eslint-plugin": "workspace:*",
     "@rushstack/eslint-plugin-packlets": "workspace:*",
     "@rushstack/eslint-plugin-security": "workspace:*",
