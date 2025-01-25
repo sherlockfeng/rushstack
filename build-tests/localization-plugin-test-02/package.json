@@ -11,7 +11,7 @@
   "dependencies": {
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-localization-typings-plugin": "workspace:*",
-    "@rushstack/heft-typescript-plugin": "workspace:*",
+    "@rushstack/heft-typescript-plugin": "^0.6.6",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
