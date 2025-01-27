@@ -11,7 +11,7 @@
     "start-proxy-server": "node ./lib/startProxyServer.js"
   },
   "devDependencies": {
-    "@microsoft/rush-lib": "workspace:*",
+    "@microsoft/rush-lib": "^5.148.0",
     "@rushstack/heft": "workspace:*",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
