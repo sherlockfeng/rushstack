@@ -15,7 +15,7 @@
     "@rushstack/heft": "workspace:*",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
-    "@rushstack/terminal": "workspace:*",
+    "@rushstack/terminal": "^0.14.5",
     "@types/http-proxy": "~1.17.8",
     "@types/node": "18.17.15",
     "eslint": "~8.57.0",
