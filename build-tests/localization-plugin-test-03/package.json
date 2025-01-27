@@ -11,7 +11,7 @@
   "dependencies": {
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/set-webpack-public-path-plugin": "^4.1.16",
-    "@rushstack/webpack4-localization-plugin": "workspace:*",
+    "@rushstack/webpack4-localization-plugin": "^0.18.83",
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
     "@types/webpack-env": "1.18.0",
     "html-webpack-plugin": "~4.5.2",
