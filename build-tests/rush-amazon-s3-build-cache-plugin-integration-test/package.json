@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@microsoft/rush-lib": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.13",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
