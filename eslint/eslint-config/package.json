@@ -32,7 +32,7 @@
     "@rushstack/eslint-plugin-packlets": "workspace:*",
     "@rushstack/eslint-plugin-security": "workspace:*",
     "@typescript-eslint/eslint-plugin": "~8.1.0",
-    "@typescript-eslint/utils": "~8.1.0",
+    "@typescript-eslint/utils": "~8.21.0",
     "@typescript-eslint/parser": "~8.1.0",
     "@typescript-eslint/typescript-estree": "~8.1.0",
     "eslint-plugin-promise": "~6.1.1",
