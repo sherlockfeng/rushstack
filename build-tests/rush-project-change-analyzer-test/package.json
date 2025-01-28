@@ -10,7 +10,7 @@
     "_phase:test": "heft run --only test -- --clean"
   },
   "dependencies": {
-    "@microsoft/rush-lib": "workspace:*",
+    "@microsoft/rush-lib": "^5.148.0",
     "@rushstack/terminal": "workspace:*"
   },
   "devDependencies": {
