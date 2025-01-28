@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "local-node-rig": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.68.13",
     "@rushstack/node-core-library": "workspace:*",
     "@types/node": "18.17.15"
   }
