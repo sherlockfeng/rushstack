@@ -39,7 +39,7 @@
     "@microsoft/rush-lib": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
-    "semver": "~7.5.4"
+    "semver": "~7.7.0"
   },
   "devDependencies": {
     "@rushstack/heft": "workspace:*",
