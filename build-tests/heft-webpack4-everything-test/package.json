@@ -21,7 +21,7 @@
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
     "@rushstack/module-minifier": "workspace:*",
     "@types/heft-jest": "1.0.1",
-    "@types/webpack-env": "1.18.0",
+    "@types/webpack-env": "1.18.6",
     "eslint": "~8.57.0",
     "file-loader": "~6.0.0",
     "source-map-loader": "~1.1.3",
