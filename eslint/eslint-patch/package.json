@@ -30,7 +30,7 @@
     "patch"
   ],
   "devDependencies": {
-    "@rushstack/heft": "0.68.10",
+    "@rushstack/heft": "0.68.13",
     "@rushstack/heft-node-rig": "2.6.44",
     "@types/eslint": "8.56.10",
     "@types/node": "18.17.15",
