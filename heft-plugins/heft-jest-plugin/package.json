@@ -34,7 +34,7 @@
     "@jest/transform": "~29.5.0",
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
-    "@rushstack/terminal": "workspace:*",
+    "@rushstack/terminal": "^0.14.5",
     "jest-config": "~29.5.0",
     "jest-resolve": "~29.5.0",
     "jest-snapshot": "~29.5.0",
