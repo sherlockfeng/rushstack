@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "local-eslint-config": "workspace:*",
-    "@rushstack/heft-web-rig": "workspace:*",
+    "@rushstack/heft-web-rig": "^0.25.20",
     "@rushstack/heft": "workspace:*",
     "@types/react-dom": "17.0.25",
     "@types/react": "17.0.74",
