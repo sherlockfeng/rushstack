@@ -68,7 +68,7 @@
     "update-notifier": "~5.1.0",
     "@pnpm/dependency-path-lockfile-pre-v9": "npm:@pnpm/dependency-path@~2.1.2",
     "semver": "~7.5.4",
-    "@rushstack/rush-sdk": "workspace:*",
+    "@rushstack/rush-sdk": "^5.149.1",
     "@rushstack/ts-command-line": "workspace:*"
   }
 }
