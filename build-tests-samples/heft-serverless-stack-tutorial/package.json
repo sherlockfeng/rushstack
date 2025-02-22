@@ -16,7 +16,7 @@
     "@aws-sdk/client-sso-oidc": "^3.567.0",
     "@aws-sdk/client-sts": "^3.567.0",
     "@rushstack/heft": "workspace:*",
-    "@rushstack/heft-jest-plugin": "workspace:*",
+    "@rushstack/heft-jest-plugin": "^0.14.8",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-serverless-stack-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
