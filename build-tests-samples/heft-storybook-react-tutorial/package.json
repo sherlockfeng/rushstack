@@ -20,7 +20,7 @@
     "@babel/core": "~7.20.0",
     "local-eslint-config": "workspace:*",
     "@rushstack/heft-jest-plugin": "workspace:*",
-    "@rushstack/heft-lint-plugin": "workspace:*",
+    "@rushstack/heft-lint-plugin": "^0.5.18",
     "@rushstack/heft-storybook-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
