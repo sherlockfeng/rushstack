@@ -10,7 +10,7 @@
     "_phase:build": "node build.js"
   },
   "devDependencies": {
-    "@microsoft/api-extractor": "workspace:*",
+    "@microsoft/api-extractor": "^7.50.1",
     "fs-extra": "~7.0.1",
     "typescript": "~2.9.2"
   }
