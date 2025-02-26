@@ -12,7 +12,7 @@
     "_phase:test": "heft run --only test -- --clean"
   },
   "devDependencies": {
-    "@microsoft/api-documenter": "workspace:*",
+    "@microsoft/api-documenter": "^7.26.10",
     "@microsoft/api-extractor": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
