@@ -13,7 +13,7 @@
     "api-extractor-lib1-test": "workspace:*"
   },
   "devDependencies": {
-    "@microsoft/api-extractor": "workspace:*",
+    "@microsoft/api-extractor": "^7.50.1",
     "@microsoft/teams-js": "1.3.0-beta.4",
     "@rushstack/heft": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
