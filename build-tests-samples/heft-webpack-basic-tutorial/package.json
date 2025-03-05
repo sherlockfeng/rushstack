@@ -19,7 +19,7 @@
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
-    "@rushstack/heft-webpack5-plugin": "workspace:*",
+    "@rushstack/heft-webpack5-plugin": "^0.11.19",
     "@rushstack/heft": "workspace:*",
     "@types/heft-jest": "1.0.1",
     "@types/react-dom": "17.0.25",
