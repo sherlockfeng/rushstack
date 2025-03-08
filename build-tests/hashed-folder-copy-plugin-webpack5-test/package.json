@@ -13,7 +13,7 @@
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
-    "@rushstack/heft-webpack5-plugin": "workspace:*",
+    "@rushstack/heft-webpack5-plugin": "^0.11.19",
     "@types/webpack-env": "1.18.0",
     "html-webpack-plugin": "~5.5.0",
     "typescript": "~5.4.2",
