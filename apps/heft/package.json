@@ -38,7 +38,7 @@
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/operation-graph": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
-    "@rushstack/terminal": "workspace:*",
+    "@rushstack/terminal": "^0.15.1",
     "@rushstack/ts-command-line": "workspace:*",
     "@types/tapable": "1.0.6",
     "fast-glob": "~3.3.1",
