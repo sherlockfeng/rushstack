@@ -20,7 +20,7 @@
   "main": "lib/index.js",
   "typings": "dist/rollup.d.ts",
   "dependencies": {
-    "@microsoft/api-extractor-model": "workspace:*",
+    "@microsoft/api-extractor-model": "^7.30.4",
     "@microsoft/tsdoc": "~0.15.1",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
