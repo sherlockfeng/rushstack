@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.12.0",
     "@rushstack/ts-command-line": "workspace:*",
     "string-argv": "~0.3.1"
   },
