@@ -18,7 +18,7 @@
     "_phase:test": "heft run --only test -- --clean"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.12.0",
     "@rushstack/terminal": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
     "resolve": "~1.22.1",
