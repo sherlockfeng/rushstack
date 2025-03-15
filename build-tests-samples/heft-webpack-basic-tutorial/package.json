@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "local-eslint-config": "workspace:*",
-    "@rushstack/heft-jest-plugin": "workspace:*",
+    "@rushstack/heft-jest-plugin": "^0.15.2",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
