@@ -9,7 +9,7 @@
     "_phase:build": "heft run --only build -- --clean"
   },
   "devDependencies": {
-    "@rushstack/hashed-folder-copy-plugin": "workspace:*",
+    "@rushstack/hashed-folder-copy-plugin": "^1.1.3",
     "@rushstack/heft": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
