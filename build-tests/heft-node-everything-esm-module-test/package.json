@@ -14,7 +14,7 @@
   "devDependencies": {
     "@microsoft/api-extractor": "workspace:*",
     "local-eslint-config": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.71.0",
     "@rushstack/heft-api-extractor-plugin": "workspace:*",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
