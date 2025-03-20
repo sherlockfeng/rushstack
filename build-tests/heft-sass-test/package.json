@@ -15,7 +15,7 @@
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-sass-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
-    "@rushstack/heft-webpack4-plugin": "workspace:*",
+    "@rushstack/heft-webpack4-plugin": "^0.10.93",
     "@rushstack/heft": "workspace:*",
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
     "@types/heft-jest": "1.0.1",
