@@ -12,6 +12,6 @@
   },
   "devDependencies": {
     "@rushstack/heft": "workspace:*",
-    "@rushstack/heft-web-rig": "workspace:*"
+    "@rushstack/heft-web-rig": "^0.28.2"
   }
 }
