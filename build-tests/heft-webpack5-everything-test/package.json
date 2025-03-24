@@ -20,7 +20,7 @@
     "@rushstack/heft-typescript-plugin": "workspace:*",
     "@rushstack/heft-webpack5-plugin": "workspace:*",
     "@rushstack/module-minifier": "workspace:*",
-    "@rushstack/webpack5-module-minifier-plugin": "workspace:*",
+    "@rushstack/webpack5-module-minifier-plugin": "^5.5.96",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/rush-sdk": "workspace:*",
     "@types/heft-jest": "1.0.1",
