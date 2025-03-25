@@ -9,7 +9,7 @@
     "_phase:build": "heft run --only build -- --clean"
   },
   "dependencies": {
-    "@rushstack/heft-lint-plugin": "workspace:*",
+    "@rushstack/heft-lint-plugin": "^0.5.27",
     "@rushstack/heft-localization-typings-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
