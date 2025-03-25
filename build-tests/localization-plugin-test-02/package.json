@@ -13,7 +13,7 @@
     "@rushstack/heft-localization-typings-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.71.0",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/set-webpack-public-path-plugin": "^4.1.16",
     "@rushstack/webpack4-localization-plugin": "workspace:*",
