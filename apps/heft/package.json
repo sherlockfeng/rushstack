@@ -36,7 +36,7 @@
   "dependencies": {
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
-    "@rushstack/operation-graph": "workspace:*",
+    "@rushstack/operation-graph": "^0.2.40",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/terminal": "workspace:*",
     "@rushstack/ts-command-line": "workspace:*",
