@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "@microsoft/rush-lib": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.13.0",
     "@rushstack/terminal": "workspace:*",
     "cors": "~2.8.5",
     "express": "4.20.0",
