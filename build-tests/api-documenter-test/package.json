@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@microsoft/api-documenter": "workspace:*",
-    "@microsoft/api-extractor": "workspace:*",
+    "@microsoft/api-extractor": "^7.52.2",
     "@rushstack/heft": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "local-node-rig": "workspace:*"
