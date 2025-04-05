@@ -12,7 +12,7 @@
     "typescript": "~5.4.2",
     "@microsoft/api-extractor": "workspace:*",
     "@rushstack/heft-api-extractor-plugin": "workspace:*",
-    "@rushstack/heft-jest-plugin": "workspace:*",
+    "@rushstack/heft-jest-plugin": "^0.15.3",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*"
   }
