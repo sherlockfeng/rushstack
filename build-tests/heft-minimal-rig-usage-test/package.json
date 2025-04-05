@@ -10,7 +10,7 @@
     "_phase:test": "heft run --only test -- --clean"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.71.1",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@types/heft-jest": "1.0.1",
     "@types/node": "18.17.15",
