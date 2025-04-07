@@ -22,7 +22,7 @@
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-storybook-plugin": "workspace:*",
-    "@rushstack/heft-typescript-plugin": "workspace:*",
+    "@rushstack/heft-typescript-plugin": "^0.8.2",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
