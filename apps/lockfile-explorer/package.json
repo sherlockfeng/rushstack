@@ -58,7 +58,7 @@
     "@types/semver": "7.5.0"
   },
   "dependencies": {
-    "@microsoft/rush-lib": "workspace:*",
+    "@microsoft/rush-lib": "^5.152.0",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
     "cors": "~2.8.5",
