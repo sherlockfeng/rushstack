@@ -21,7 +21,7 @@
     "@rushstack/rush-themed-ui": "workspace:*"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.72.0",
     "@types/react-dom": "17.0.25",
     "@types/react": "17.0.74",
     "local-web-rig": "workspace:*"
