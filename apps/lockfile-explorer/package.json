@@ -47,7 +47,7 @@
     }
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.72.0",
     "@rushstack/lockfile-explorer-web": "workspace:*",
     "@types/cors": "~2.8.12",
     "@types/express": "4.17.21",
