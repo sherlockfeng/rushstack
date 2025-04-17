@@ -42,7 +42,7 @@
     "semver": "~7.5.4"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.73.0",
     "local-node-rig": "workspace:*",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
     "@rushstack/rush-azure-storage-build-cache-plugin": "workspace:*",
