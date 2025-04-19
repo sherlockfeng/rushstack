@@ -15,7 +15,7 @@
   "devDependencies": {
     "@aws-sdk/client-sso-oidc": "^3.567.0",
     "@aws-sdk/client-sts": "^3.567.0",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.73.1",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
     "@rushstack/heft-serverless-stack-plugin": "workspace:*",
