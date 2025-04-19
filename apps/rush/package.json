@@ -46,7 +46,7 @@
     "local-node-rig": "workspace:*",
     "@rushstack/rush-amazon-s3-build-cache-plugin": "workspace:*",
     "@rushstack/rush-azure-storage-build-cache-plugin": "workspace:*",
-    "@rushstack/rush-http-build-cache-plugin": "workspace:*",
+    "@rushstack/rush-http-build-cache-plugin": "^5.153.0",
     "@types/heft-jest": "1.0.1",
     "@types/semver": "7.5.0"
   }
