@@ -9,6 +9,6 @@
     "_phase:build": "heft run --only build -- --clean"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*"
+    "@rushstack/heft": "^0.73.1"
   }
 }
