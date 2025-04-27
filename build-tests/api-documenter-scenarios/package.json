@@ -11,7 +11,7 @@
   "devDependencies": {
     "@microsoft/api-documenter": "workspace:*",
     "@microsoft/api-extractor": "workspace:*",
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.73.2",
     "@rushstack/node-core-library": "workspace:*",
     "local-node-rig": "workspace:*",
     "run-scenarios-helpers": "workspace:*"
