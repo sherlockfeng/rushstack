@@ -16,7 +16,7 @@
     "semver": "~7.5.4"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.73.2",
     "local-node-rig": "workspace:*"
   }
 }
