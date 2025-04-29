@@ -16,7 +16,7 @@
   "devDependencies": {
     "local-eslint-config": "workspace:*",
     "@rushstack/heft": "workspace:*",
-    "@rushstack/heft-lint-plugin": "workspace:*",
+    "@rushstack/heft-lint-plugin": "^0.5.35",
     "@rushstack/heft-typescript-plugin": "workspace:*",
     "@types/node": "20.17.19",
     "@types/tapable": "1.0.6",
