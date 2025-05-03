@@ -12,7 +12,7 @@
     "@microsoft/api-documenter": "workspace:*",
     "@microsoft/api-extractor": "workspace:*",
     "@rushstack/heft": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.13.1",
     "local-node-rig": "workspace:*",
     "run-scenarios-helpers": "workspace:*"
   }
