@@ -15,7 +15,7 @@
     "long": "^4.0.0"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.73.4",
     "local-node-rig": "workspace:*"
   }
 }
