@@ -13,7 +13,7 @@
     "api-extractor-lib1-test": "workspace:*"
   },
   "devDependencies": {
-    "@rushstack/heft": "workspace:*",
+    "@rushstack/heft": "^0.73.4",
     "local-node-rig": "workspace:*"
   }
 }
