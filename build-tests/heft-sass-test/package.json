@@ -22,7 +22,7 @@
     "@types/heft-jest": "1.0.1",
     "@types/node": "20.17.19",
     "@types/react-dom": "17.0.25",
-    "@types/react": "17.0.74",
+    "@types/react": "19.1.2",
     "@types/webpack-env": "1.18.8",
     "autoprefixer": "~10.4.2",
     "css-loader": "~5.2.7",
