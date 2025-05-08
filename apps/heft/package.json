@@ -39,7 +39,7 @@
     "@rushstack/operation-graph": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/terminal": "workspace:*",
-    "@rushstack/ts-command-line": "workspace:*",
+    "@rushstack/ts-command-line": "^5.0.1",
     "@types/tapable": "1.0.6",
     "fast-glob": "~3.3.1",
     "git-repo-info": "~2.1.0",
