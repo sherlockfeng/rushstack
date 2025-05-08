@@ -69,6 +69,6 @@
     "@pnpm/dependency-path-lockfile-pre-v9": "npm:@pnpm/dependency-path@~2.1.2",
     "semver": "~7.5.4",
     "@rushstack/rush-sdk": "workspace:*",
-    "@rushstack/ts-command-line": "workspace:*"
+    "@rushstack/ts-command-line": "^5.0.1"
   }
 }
