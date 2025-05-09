@@ -12,7 +12,7 @@
   "devDependencies": {
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
-    "@rushstack/heft-typescript-plugin": "workspace:*",
+    "@rushstack/heft-typescript-plugin": "^0.9.6",
     "@rushstack/heft": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@types/heft-jest": "1.0.1",
