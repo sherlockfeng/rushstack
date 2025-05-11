@@ -13,7 +13,7 @@
     "local-eslint-config": "workspace:*",
     "@rushstack/heft-jest-plugin": "workspace:*",
     "@rushstack/heft-lint-plugin": "workspace:*",
-    "@rushstack/heft-sass-plugin": "workspace:*",
+    "@rushstack/heft-sass-plugin": "^0.17.5",
     "@rushstack/heft-sass-load-themed-styles-plugin": "workspace:*",
     "@rushstack/heft-typescript-plugin": "workspace:*",
     "@rushstack/heft-webpack4-plugin": "workspace:*",
