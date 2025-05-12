@@ -17,7 +17,7 @@
     "@rushstack/heft-webpack4-plugin": "workspace:*",
     "@rushstack/heft": "workspace:*",
     "@rushstack/module-minifier": "workspace:*",
-    "@rushstack/node-core-library": "workspace:*",
+    "@rushstack/node-core-library": "^5.13.1",
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
     "@types/heft-jest": "1.0.1",
     "@types/node": "20.17.19",
