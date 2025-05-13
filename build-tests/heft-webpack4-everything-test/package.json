@@ -20,7 +20,7 @@
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/webpack4-module-minifier-plugin": "workspace:*",
     "@types/heft-jest": "1.0.1",
-    "@types/node": "20.17.19",
+    "@types/node": "22.15.17",
     "@types/webpack-env": "1.18.8",
     "eslint": "~8.57.0",
     "file-loader": "~6.0.0",
