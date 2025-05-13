@@ -20,7 +20,7 @@
     "@rushstack/heft": "workspace:*",
     "@rushstack/module-minifier": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
-    "@rushstack/rush-sdk": "workspace:*",
+    "@rushstack/rush-sdk": "^5.153.1",
     "@rushstack/webpack5-module-minifier-plugin": "workspace:*",
     "@types/heft-jest": "1.0.1",
     "@types/node": "20.17.19",
